@@ -1,10 +1,10 @@
 ---
 title: "Economic Analysis and Optimal Design of Micro-grid using PSO Algorithm"
 collection: publications
-permalink: /publication/2010-10-01-economic-analysis-microgrid-pso
+permalink: /publication/2022-11-21-economic-analysis-microgrid-pso
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-12-11
-venue: '2022 12th International Conference on Electrical and Computer Engineering (ICECE)'
+date: 2010-12-21
+venue: '12th International Conference on Electrical and Computer Engineering (ICECE)'
 paperurl: 'https://doi.org/10.1109/ICECE57408.2022.10088762'
 excerpt: 'This paper is based on PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year.'
 
