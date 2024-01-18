@@ -2,12 +2,11 @@
 title: "Modification of Dynamic Logic Circuit Design Technique for Minimizing Leakage Current and Propagation Delay"
 collection: publications
 permalink: /publication/2022-12-17-Modification-of-Dynamic-Logic-Circuit
-excerpt: 'This paper is based on the OR logic operation’s small discharging current and transmission time delay dynamic logic circuit configuration method.'
 date: 2022-12-17
 venue: 'IEEE PROCEEDINGS'
 paperurl: 'https://doi.org/10.1109/STI56238.2022.10103242'
-
 citation: 'S. Erfan Ahmed Himu, S. Sultana, M. Soaibul Haque Chowdhury, A. Ibne Ikram, H. Rahman Saium and M. Minhaj Hossain, "Modification of Dynamic Logic Circuit Design Technique for Minimizing Leakage Current and Propagation Delay," 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2022, pp. 1-5, doi: 10.1109/STI56238.2022.10103242.'
+excerpt: 'This paper is based on the OR logic operation’s small discharging current and transmission time delay dynamic logic circuit configuration method.'
 ---
 
 <B>Abstract:</B> 
