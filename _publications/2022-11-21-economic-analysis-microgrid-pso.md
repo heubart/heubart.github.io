@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2022-12-21
 venue: '12th International Conference on Electrical and Computer Engineering (ICECE)'
 paperurl: 'https://doi.org/10.1109/ICECE57408.2022.10088762'
-excerpt:  '<p style='text-align: justify;'> This paper is based on PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year.</p> ' 
+excerpt:  'This paper is based on PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year.'
 
 ---
 DOI: [10.1109/ICECE57408.2022.10088762](https://doi.org/10.1109/ICECE57408.2022.10088762)
