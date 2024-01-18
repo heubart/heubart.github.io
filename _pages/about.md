@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Arafat is a prospective graduate student, who was appointed as Teaching assistant after receiving my bachelor degree in Electrical and Electronic Engineering at [International Islamic University Chittagong](https://www.iiuc.ac.bd/)in 2022. Previously, He worked as a research assistant under the supervision of [Dr. Md Shafiullah](https://scholar.google.com/citations?user=IrQqEgIAAAAJ&hl=en) (KFUPM). His research includes renewable energy systems and sustainable development incorporated hydrogen energy technology, control & optimization of power plant and microgrid. He have participated in several scientific conference, contributed to prestigious academic journal and so forth.
+
+<p style='text-align: justify;'> Arafat is a prospective graduate student, who was appointed as Teaching assistant after receiving my bachelor degree in Electrical and Electronic Engineering at [International Islamic University Chittagong](https://www.iiuc.ac.bd/)in 2022. Previously, He worked as a research assistant under the supervision of [Dr. Md Shafiullah](https://scholar.google.com/citations?user=IrQqEgIAAAAJ&hl=en) (KFUPM). His research includes renewable energy systems and sustainable development incorporated hydrogen energy technology, control & optimization of power plant and microgrid. He have participated in several scientific conference, contributed to prestigious academic journal and so forth.</p>
 
 
 
