@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Economic Analysis and Optimal Design of Micro-grid using PSO Algorithm"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-economic-analysis-microgrid-pso
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2010-12-11
+venue: '2022 12th International Conference on Electrical and Computer Engineering (ICECE)'
+paperurl: 'https://doi.org/10.1109/ICECE57408.2022.10088762'
+excerpt: 'This paper is based on PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year.'
+
+ 
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<B>Abstract:</B> 
+<p style='text-align: justify;'>The efficiency of a micro-grid and its optimal size are both determined through economic analysis. optimization is necessary for running and expanding a micro-grid economically. Fulfilling equity and inequality standards may reduce total production costs including capital, operations, pollution, and renewable energy subsidies. A cost-optimization method called particle swarm optimization (PSO) is effective and flexible. Here, a framework for assessing the practicality, cost, and impact of off-grid energy systems on people and the planet is presented. A mathematical function of the micro-grid component might recycle power production by the hour based on available resources and store any surplus energy in a battery. Here, a model of a PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year. The LCOE of this system is 0.22$/kWh. Compared to conventional electricity, it results in lower carbon dioxide emissions. </p>
