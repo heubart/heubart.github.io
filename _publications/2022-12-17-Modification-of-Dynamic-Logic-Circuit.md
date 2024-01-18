@@ -2,7 +2,7 @@
 title: "Modification of Dynamic Logic Circuit Design Technique for Minimizing Leakage Current and Propagation Delay"
 collection: publications
 permalink: /publication/2022-12-17-Modification-of-Dynamic-Logic-Circuit
-excerpt: 'This paper is about the number 1.'
+excerpt: 'This paper is based on the OR logic operation’s small discharging current and transmission time delay dynamic logic circuit configuration method.'
 date: 2022-12-17
 venue: 'IEEE PROCEEDINGS'
 paperurl: 'https://doi.org/10.1109/STI56238.2022.10103242'
