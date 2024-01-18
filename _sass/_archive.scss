@@ -63,6 +63,7 @@
   font-size: $type-size-6;
 
   & + p {
+    text-align: justify;
     text-indent: 0;
   }
 }
