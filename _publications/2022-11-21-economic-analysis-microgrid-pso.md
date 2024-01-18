@@ -11,7 +11,7 @@ excerpt: 'This paper is based on PV-Wind-WtE-battery hybrid system is proposed f
 ---
 DOI: [10.1109/ICECE57408.2022.10088762](https://doi.org/10.1109/ICECE57408.2022.10088762)
 
-Citation: 'M. A. B. Zafar, M. R. Islam, M. S. -U. Islam, M. Shafiullah and A. I. Ikram, "Economic Analysis and Optimal Design of Micro-grid using PSO Algorithm," 2022 12th International Conference on Electrical and Computer Engineering (ICECE), Dhaka, Bangladesh, 2022, pp. 421-424, doi: 10.1109/ICECE57408.2022.10088762.'
+`Citation: 'M. A. B. Zafar, M. R. Islam, M. S. -U. Islam, M. Shafiullah and A. I. Ikram, "Economic Analysis and Optimal Design of Micro-grid using PSO Algorithm," 2022 12th International Conference on Electrical and Computer Engineering (ICECE), Dhaka, Bangladesh, 2022, pp. 421-424, doi: 10.1109/ICECE57408.2022.10088762.'`
 
 
 <B>Abstract:</B> 
