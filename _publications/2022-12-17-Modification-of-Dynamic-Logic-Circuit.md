@@ -3,7 +3,7 @@ title: "Modification of Dynamic Logic Circuit Design Technique for Minimizing Le
 collection: publications
 permalink: /publication/2022-12-17-Modification-of-Dynamic-Logic-Circuit
 date: 2022-12-17
-venue: 'IEEE PROCEEDINGS'
+venue: '2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI)'
 paperurl: 'https://doi.org/10.1109/STI56238.2022.10103242'
 excerpt: 'This paper is based on the OR logic operation’s small discharging current and transmission time delay dynamic logic circuit configuration method.'
 
