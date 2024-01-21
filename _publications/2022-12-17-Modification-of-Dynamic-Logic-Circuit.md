@@ -10,6 +10,7 @@ excerpt: 'This paper is based on the OR logic operation’s small discharging cu
 ---
 
 DOI: [10.1109/STI56238.2022.10103242](https://doi.org/10.1109/STI56238.2022.10103242) 
+
 [PDF Available at Researchgate](
 https://www.researchgate.net/publication/370236343_Modification_of_Dynamic_Logic_Circuit_Design_Technique_for_Minimizing_Leakage_Current_and_Propagation_Delay)
 
