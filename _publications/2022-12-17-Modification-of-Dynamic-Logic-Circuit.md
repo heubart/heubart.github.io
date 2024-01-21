@@ -14,8 +14,7 @@ DOI: [10.1109/STI56238.2022.10103242](https://doi.org/10.1109/STI56238.2022.1010
 [PDF Available at Researchgate](
 https://www.researchgate.net/publication/370236343_Modification_of_Dynamic_Logic_Circuit_Design_Technique_for_Minimizing_Leakage_Current_and_Propagation_Delay)
 
-> <p style='text-align: justify;'> Citation: 
-citation: S. Erfan Ahmed Himu, S. Sultana, M. Soaibul Haque Chowdhury, A. Ibne Ikram, H. Rahman Saium and M. Minhaj Hossain, "Modification of Dynamic Logic Circuit Design Technique for Minimizing Leakage Current and Propagation Delay," 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2022, pp. 1-5, doi: 10.1109/STI56238.2022.10103242.
+> <p style='text-align: justify;'> Citation: S. Erfan Ahmed Himu, S. Sultana, M. Soaibul Haque Chowdhury, A. Ibne Ikram, H. Rahman Saium and M. Minhaj Hossain, "Modification of Dynamic Logic Circuit Design Technique for Minimizing Leakage Current and Propagation Delay," 2022 4th International Conference on Sustainable Technologies for Industry 4.0 (STI), Dhaka, Bangladesh, 2022, pp. 1-5, doi: 10.1109/STI56238.2022.10103242.
 </p>
 
 <B>Abstract:</B> 
