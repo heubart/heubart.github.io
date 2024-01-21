@@ -10,7 +10,7 @@ excerpt:  'This paper is based on PV-Wind-WtE-battery hybrid system is proposed 
 
 ---
 DOI: [10.1109/ECCE57851.2023.10101554](https://doi.org/10.1109/ECCE57851.2023.10101554) 
-[PDF Available at Researchgate](https://www.researchgate.net/publication/370132615_Optimal_Cost_and_Component_Configuration_Analysis_of_Micro-grid_Using_GWO_Algorithm?)
+[PDF Available at Researchgate](https://www.researchgate.net/publication/370132615_Optimal_Cost_and_Component_Configuration_Analysis_of_Micro-grid_Using_GWO_Algorithm)
 
 > <p style='text-align: justify;'> Citation: M. S. -U. Islam, M. A. B. Zafar, A. I. Ikram, T. A. Chowdhury, M. S. R. Sachha and S. Hossain, "Optimal Cost and Component Configuration Analysis of Micro-grid Using GWO Algorithm," 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE), Chittagong, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ECCE57851.2023.10101554.</p>
 
