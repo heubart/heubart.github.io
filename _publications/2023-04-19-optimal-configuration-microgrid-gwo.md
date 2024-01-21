@@ -6,10 +6,11 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2023-04-19
 venue: '2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)'
 paperurl: 'https://doi.org/10.1109/ECCE57851.2023.10101554'
-excerpt:  'This paper is based on PV-Wind-WtE-battery hybrid system is proposed for the halishahar area of Chattogram, Bangladesh. Design considerations include solar panels, wind turbines, batteries, and diesel engine power. To determine the best parameters for the design in terms of total annual cost, particle swarm optimization algorithm is employed. This micro-grid has no trouble providing Halishahar with sufficient power for a whole year.'
+excerpt:  'This paper is based on methodology where Grey wolf optimizer was utilizedto find the optimal design parameters to minimize the overall yearly cost. This micro-grid can easily provide 1,40,423.8 MWh, more than enough to power Halishahar for a whole year. A low levelized cost of energy (LCOE) of 0.221 $kWh is achieved with this setup. It reduces carbon dioxide emissions by a larger margin than traditional power.'
 
 ---
 DOI: [10.1109/ECCE57851.2023.10101554](https://doi.org/10.1109/ECCE57851.2023.10101554) 
+
 [PDF Available at Researchgate](https://www.researchgate.net/publication/370132615_Optimal_Cost_and_Component_Configuration_Analysis_of_Micro-grid_Using_GWO_Algorithm)
 
 > <p style='text-align: justify;'> Citation: M. S. -U. Islam, M. A. B. Zafar, A. I. Ikram, T. A. Chowdhury, M. S. R. Sachha and S. Hossain, "Optimal Cost and Component Configuration Analysis of Micro-grid Using GWO Algorithm," 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE), Chittagong, Bangladesh, 2023, pp. 1-6, doi: 10.1109/ECCE57851.2023.10101554.</p>
