@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Electronics Engineering, International Islamic University, 2022
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Spirng and Autumn 2023: Teaching Assistant 
+  * Faculty of Science and Engineering, International Islamic University, 2022
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Autumn 2022: Research Assistant (Remote)
+  * King Fahd University of Petroleum and Minerals
+  * Duties included: Control and Optimization
+  * Supervisor: <a href="https://scholar.google.com/citations?user=IrQqEgIAAAAJ&hl=en"> Dr. Md Shafiullah</a> (KFUPM)
   
 Skills
 ======
